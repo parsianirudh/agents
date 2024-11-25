@@ -17,7 +17,7 @@ wiki = WikipediaQueryRun(api_wrapper=api_wrapper)
 
 search = DuckDuckGoSearchRun(name="Search")
 
-st.title("🔎 LangChain - Chat with search")
+st.title("🔎 Intelligent Search Engine with LangChain ")
 """
 Streamlit Agent example using Wikipedia and Arxiv.
 """
